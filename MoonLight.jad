@@ -1,0 +1,13 @@
+MIDlet-Name: MoonLight
+MIDlet-Version: 1.1.1
+MIDlet-Vendor: Nikolay Klimchuk
+MicroEdition-Profile: MIDP-1.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-Jar-URL: MoonLight.jar
+MIDlet-Jar-Size: 30904
+MIDlet-Description: Flight simulator with simple economic model
+MIDlet-Info-URL: http://henson.newmail.ru
+Nokia-MIDlet-Category: Game
+MIDlet-Install-Notify: http://mobijava.russia.webmatrixhosting.net/log.aspx?s=Moscowpoly
+MIDlet-1: MoonLight, , henson.games.MoonLight
+
