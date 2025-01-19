@@ -1,0 +1,14 @@
+[PropertyInfo]
+distance,int[],false,false, , ,false,<default>
+income,int[],false,false, , ,false,<default>
+ml,MoonLight,false,false, , ,false,<default>
+name,String[],false,false, , ,false,<default>
+page,int,false,false, , ,false,<default>
+rand,Random,false,false, , ,false,<default>
+splash,Image,false,false, , ,false,<default>
+weight,int[],false,false, , ,false,<default>
+[IconNames]
+
+
+
+
